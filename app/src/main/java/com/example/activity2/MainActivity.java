@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //initilize button and textview here
+        //initiliaze button and textview here
 
         tv = (TextView) findViewById(R.id.textView);
         tv2 = (TextView)findViewById(R.id.textView2);
